@@ -9,7 +9,7 @@ import de.vxr.validations.{Error, NotEmptyValidator, Ok, RegExValidator, Result,
  *  - general tsv-syntax check (lines, cols)
  *  - error-reporting beautify and correctify ;-)
  *  - line be parameterised with delimter, so one could use csv's as well
- *  - ist der shit jetzt streamed ?? ne oder?
+ *  - ist der shit jetzt streamed ?  .to(LazyList)?
  *  - testfile raus -> scala test rein ;-)
  */
 
